@@ -5,7 +5,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 ## 🚀 Key Insights Delivered
 
-✔️ Sales & Profitability Overview
+### ✔️ Sales & Profitability Overview
 
 - Total Sales: 9.48M
 
@@ -17,7 +17,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 - Sales vs Target analysis
   
-✔️ Regional Performance
+### ✔️ Regional Performance
 
 - Region-wise Sales distribution
 
@@ -25,7 +25,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 - High-performing regions identified (Central, South, North)
 
-✔️ Product-Level Intelligence
+### ✔️ Product-Level Intelligence
 
 - Top-selling products
 
@@ -33,7 +33,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 - Category breakdown: Technology, Furniture, Office Supplies
 
-✔️ Operational KPIs
+### ✔️ Operational KPIs
 
 - Average Delivery Delay
 
@@ -45,7 +45,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 - Quantity shipped across global regions
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Power BI Desktop
 
@@ -55,7 +55,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 - Dataset: Global Retail / Superstore dataset
 
-  📁 Files Included
+  ## 📁 Files Included
 
 - Global_Retail_Sales_Dashboard.pbix → Full interactive dashboard
 
@@ -63,7 +63,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 - README.md → Project documentation
 
-  ▶️ How to Use
+  ## ▶️ How to Use
 
 - Download the .pbix file
 
@@ -71,7 +71,7 @@ The solution enables business leaders to track sales performance, profitability,
 
 - Explore slicers, drilldowns, and interactive visuals for insights
 
-  🌱 Future Enhancements
+  ## Future Enhancements
 
 - Publish to Power BI Service
 
