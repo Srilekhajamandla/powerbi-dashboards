@@ -48,7 +48,7 @@ This dashboard helps business users understand revenue drivers, product performa
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/practise.png)
+![Dashboard Preview](images/practise1.png)
 
 ---
 
@@ -67,10 +67,9 @@ adidas-sales-report/
 │── Adidas_Sales_Report.pbix
 │── README.md
 └── images/
-       └── practise.png
+       └── practise1.png
 ```
 
----
 
 ## ▶️ How to Use This Dashboard
 1. Download the `.pbix` file  
@@ -80,14 +79,9 @@ adidas-sales-report/
    - Invoice Date  
 4. Explore retailer performance, product contribution, and monthly sales trends  
 
----
 
 ## 🌱 Future Enhancements
 - Add forecasting trends using analytics lines  
 - Include profit segmentation by retailer  
 - Add drill-through pages for product deep-dive  
 - Integrate dynamic storytelling using bookmarks  
-
-
-Just say **“Next README”**.
-
