@@ -48,7 +48,7 @@ This dashboard helps business users understand revenue drivers, product performa
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_1.png)
+![Dashboard Preview](images/practise.png)
 
 ---
 
@@ -67,7 +67,7 @@ adidas-sales-report/
 │── Adidas_Sales_Report.pbix
 │── README.md
 └── images/
-       └── dashboard_1.png
+       └── practise.png
 ```
 
 ---
